@@ -4,10 +4,7 @@ interface IMascota {
 }
 
 class Dragon implements IMascota {
-  static crearMascota() {
-    throw new Error("Method not implemented.");
-  }
-
+   
   crearMascota(): void {
     console.log("Se ha creado un dragon");
   }
