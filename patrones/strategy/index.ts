@@ -64,4 +64,10 @@ namespace strategyMethod {
 
     console.log(cuenta.cuentas(4,5))
 
+    "le pasamos la estrategia y hacemos el calculo  en este caso divicion pero mas alta "
+
+    cuenta = new strategyMethod.calculo(new strategyMethod.dividir());
+
+    console.log(cuenta.cuentas(4,5))
+ 
 }
