@@ -1,0 +1,13 @@
+Patrones de diseño son soluciones ya probadas que sirven para solucionar problemas
+
+Patron Factory:
+Le da la responsabilidad de instancias o creacion a una clase especifica, como la Factory
+La factoria es la encargada de la instanciacion de las clases 
+
+Es un factor de produccion para construir distintos objetos, de una forma ordenada
+
+Patron Strategy:
+Permite definir una familia de algoritmos para cambiar el comportamiento de tu
+aplicacion en tiempo de ejecucion
+
+Algoritmos disponibles son ejecutador por Aplication Context, luego sigue con su flujo (algoritmo especificado)
