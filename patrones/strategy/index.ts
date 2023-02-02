@@ -68,6 +68,6 @@ namespace strategyMethod {
 
     cuenta = new strategyMethod.calculo(new strategyMethod.dividir());
 
-    console.log(cuenta.cuentas(4,5))
+    console.log(cuenta.cuentas(41 / 500))
  
 }
