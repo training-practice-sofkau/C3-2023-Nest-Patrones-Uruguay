@@ -14,7 +14,6 @@ namespace strategyMethod {
             return a - b;
         }
     }
-
     export class Multiplicación implements strategy {
         public calcular(a: number, b: number): number {
             return a * b;
